@@ -1080,6 +1080,9 @@ footer .right-content ul li{
 .contact-form {
   text-align: center;
 }
+.contact-form #contact .row .col-lg-12 fieldset a {
+  margin-top: 500px;
+}
 
 .contact-form ::-webkit-input-placeholder { /* Edge */
   color: #7a7a7a;
