@@ -158,6 +158,10 @@ a.main-button-slider {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
+.col-lg-10 .arrasta{
+  display: none;
+  
+}
 
 a.main-button-slider:hover {
   background-color: #f1556a;
@@ -567,6 +571,10 @@ header
   .logo {
     text-align: center;
     float: none!important;
+  }
+  .col-lg-10 .arrasta{
+    display:grid;
+    
   }
   .header-area {
     background-color: #f7f7f7;
