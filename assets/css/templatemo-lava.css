@@ -1003,10 +1003,8 @@ footer
     
   }
   .footer-content{
-    background-color: #F2615F;
   }
   footer .right-content {
-    background-color: #F2615F;
     text-align: center;
    
 
@@ -1047,7 +1045,7 @@ footer .right-content {
   
 }
 footer .right-content img{
-  width: 80%;
+  width: 55%;
   
 }
 footer .right-content ul li{
