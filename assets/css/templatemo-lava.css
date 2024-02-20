@@ -1052,9 +1052,14 @@ footer .right-content {
   
 }
 footer .right-content img{
-  width: 50%;
+  width: 90%;
   
 }
+footer .right-content img .img-promo{
+  background-color: #1e1e1e;
+  
+}
+
 footer .right-content ul li{
   margin-left: 5%;
   text-align: left;
