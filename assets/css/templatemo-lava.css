@@ -1055,6 +1055,13 @@ footer .right-content img{
   width: 90%;
   
 }
+.right-content .img-promo2 {
+  width: 250px; /* Largura desejada */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 footer .right-content img .img-promo{
   background-color: #1e1e1e;
   
