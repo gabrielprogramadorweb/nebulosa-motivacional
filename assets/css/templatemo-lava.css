@@ -1052,12 +1052,13 @@ footer .right-content {
   
 }
 footer .right-content img{
-  width: 90%;
+  width: 50%;
   
 }
 .right-content .img-promo2 {
-  width: 250px; /* Largura desejada */
+  width: 100%; /* Largura desejada */
   margin-left: auto;
+  
   margin-right: auto;
   display: block;
 }
