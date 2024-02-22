@@ -42,6 +42,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -356,6 +357,7 @@ header
   padding-right: 35px;
 }
 
+
 .header-area .main-nav .nav li.submenu:after {
   font-family: 'Sora', sans-serif;
   content: "\f107";
@@ -556,6 +558,7 @@ header
 .header-area.header-sticky .nav li a.active {
   color: #fba70b;
 }
+
 
 @media (max-width: 1200px) {
   .header-area .main-nav .nav li {
@@ -986,13 +989,23 @@ testimonials
   .owl-carousel .owl-nav {
     display: none!important;
   }
+
 }
+
 
 /* 
 ---------------------------------------------
 footer
 --------------------------------------------- 
 */
+@media (max-width: 892px) {
+  
+footer .right-content .img-promo{
+  width: 30%;
+  max-width: 200px;
+  
+}
+}
 
 @media (max-width: 992px) {
   body{
@@ -1051,8 +1064,9 @@ footer .right-content {
   align-self: center;
   
 }
-footer .right-content img{
-  width: 50%;
+footer .right-content .img-promo{
+  width: 90%;
+  max-width: 600px;
   
 }
 .right-content .img-promo2 {
